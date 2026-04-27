@@ -1,5 +1,6 @@
-foto
-largura{54%
-} corpo{cor de fundo: azul-violeta
-
-;}
+  .foto
+  width: 54%;
+}
+body{
+    background-color: #F527F5;
+}
