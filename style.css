@@ -1,6 +1,16 @@
   .foto
   width: 54%;
 }
+
 body{
     background-color: #F527F5;
+display: flex;
+
+align-items: center;
+justify-content: space-evenly;
+}
+
+div{ margin: 19px;
+  padding: 2px;
+
 }
